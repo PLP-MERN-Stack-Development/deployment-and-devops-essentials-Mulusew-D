@@ -1,7 +1,7 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-🌐  **Live Demo:** [Click Here](https://real-time-chat-app-fpk1.onrender.com)
-🚀 Live Demo Links
+🌐  🚀 Live Demo Links
+
 🔹 Frontend
 
 Live URL: https://realchat-fronte.netlify.app
