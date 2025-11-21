@@ -1,5 +1,7 @@
 # ✨ Full Stack Realtime Chat App ✨
 
+# Screenshots
+![Chat App](https://github.com/PLP-MERN-Stack-Development/deployment-and-devops-essentials-Mulusew-D/raw/ec1d741f3286890b30169d6d60560b7d6f323b31/frontend/public/chat.png)
 
 Highlights:
 
