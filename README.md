@@ -1,12 +1,7 @@
 # ✨ Full Stack Realtime Chat App ✨
-📦 Build the app
-npm run build
-
-▶ Start the app
-npm start
 
 🌐 Live Demo (Optional)
-🔗 **Live Demo:** [Click Here](https://your-deployment-url.com)
+🔗 **Live Demo:** [Click Here](https://real-time-chat-app-fpk1.onrender.com)
 
 # Screenshots
 ![Chat App](https://github.com/PLP-MERN-Stack-Development/deployment-and-devops-essentials-Mulusew-D/raw/ec1d741f3286890b30169d6d60560b7d6f323b31/frontend/public/chat.png)
