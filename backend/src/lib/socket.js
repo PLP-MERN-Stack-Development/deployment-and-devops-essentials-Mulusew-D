@@ -7,7 +7,7 @@ const server = http.createServer(app);
 
 const io = new Server(server, {
   cors: {
-    origin: ["https://real-time-chat-app-two-beta.vercel.app"],
+    origin: ["https://realchat-fronte.netlify.app"],
   },
 });
 
